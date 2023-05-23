@@ -1,7 +1,7 @@
-Welcome to Shorebird!
+Welcome to Shorebird! 👋
 
 If you have questions, check out our FAQ:
-https://github.com/shorebirdtech/shorebird/blob/main/FAQ.md
+https://docs.shorebird.dev/faq
 
 Or join us on Discord:
-https://discord.com/invite/9hKJcWGcaB
+https://discord.gg/shorebird
